@@ -1,0 +1,14 @@
+C:\Users\zionn\Desktop\CodeStack Academy Combine\Combine Day 2 Intro to Variables\bin\Debug\net10.0\Combine Day 2 Intro to Variables.exe
+C:\Users\zionn\Desktop\CodeStack Academy Combine\Combine Day 2 Intro to Variables\bin\Debug\net10.0\Combine Day 2 Intro to Variables.deps.json
+C:\Users\zionn\Desktop\CodeStack Academy Combine\Combine Day 2 Intro to Variables\bin\Debug\net10.0\Combine Day 2 Intro to Variables.runtimeconfig.json
+C:\Users\zionn\Desktop\CodeStack Academy Combine\Combine Day 2 Intro to Variables\bin\Debug\net10.0\Combine Day 2 Intro to Variables.dll
+C:\Users\zionn\Desktop\CodeStack Academy Combine\Combine Day 2 Intro to Variables\bin\Debug\net10.0\Combine Day 2 Intro to Variables.pdb
+C:\Users\zionn\Desktop\CodeStack Academy Combine\Combine Day 2 Intro to Variables\obj\Debug\net10.0\Combine Day 2 Intro to Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zionn\Desktop\CodeStack Academy Combine\Combine Day 2 Intro to Variables\obj\Debug\net10.0\Combine Day 2 Intro to Variables.AssemblyInfoInputs.cache
+C:\Users\zionn\Desktop\CodeStack Academy Combine\Combine Day 2 Intro to Variables\obj\Debug\net10.0\Combine Day 2 Intro to Variables.AssemblyInfo.cs
+C:\Users\zionn\Desktop\CodeStack Academy Combine\Combine Day 2 Intro to Variables\obj\Debug\net10.0\Combine Day 2 Intro to Variables.csproj.CoreCompileInputs.cache
+C:\Users\zionn\Desktop\CodeStack Academy Combine\Combine Day 2 Intro to Variables\obj\Debug\net10.0\Combine Day 2 Intro to Variables.dll
+C:\Users\zionn\Desktop\CodeStack Academy Combine\Combine Day 2 Intro to Variables\obj\Debug\net10.0\refint\Combine Day 2 Intro to Variables.dll
+C:\Users\zionn\Desktop\CodeStack Academy Combine\Combine Day 2 Intro to Variables\obj\Debug\net10.0\Combine Day 2 Intro to Variables.pdb
+C:\Users\zionn\Desktop\CodeStack Academy Combine\Combine Day 2 Intro to Variables\obj\Debug\net10.0\Combine Day 2 Intro to Variables.genruntimeconfig.cache
+C:\Users\zionn\Desktop\CodeStack Academy Combine\Combine Day 2 Intro to Variables\obj\Debug\net10.0\ref\Combine Day 2 Intro to Variables.dll
