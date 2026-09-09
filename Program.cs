@@ -56,4 +56,4 @@ Console.WriteLine("Please Enter The Number 45");
 
 //ReadLine can only be a string
 //int num = Console.ReadLine();
-string num = Console.ReadLine();
+string num = Console.ReadLine(); //trets
