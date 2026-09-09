@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Combine Day 2 Intro to Variables")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c53cb35fa3b30d2a804af21939210ff8016ea8cc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Combine Day 2 Intro to Variables")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Combine Day 2 Intro to Variables")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

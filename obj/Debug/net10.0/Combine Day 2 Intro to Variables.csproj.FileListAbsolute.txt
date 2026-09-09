@@ -12,3 +12,4 @@ C:\Users\zionn\Desktop\CodeStack Academy Combine\Combine Day 2 Intro to Variable
 C:\Users\zionn\Desktop\CodeStack Academy Combine\Combine Day 2 Intro to Variables\obj\Debug\net10.0\Combine Day 2 Intro to Variables.pdb
 C:\Users\zionn\Desktop\CodeStack Academy Combine\Combine Day 2 Intro to Variables\obj\Debug\net10.0\Combine Day 2 Intro to Variables.genruntimeconfig.cache
 C:\Users\zionn\Desktop\CodeStack Academy Combine\Combine Day 2 Intro to Variables\obj\Debug\net10.0\ref\Combine Day 2 Intro to Variables.dll
+C:\Users\zionn\Desktop\CodeStack Academy Combine\Combine Day 2 Intro to Variables\obj\Debug\net10.0\Combine Day 2 Intro to Variables.sourcelink.json

@@ -21,7 +21,7 @@ Console.ReadLine();
 //string data types are text between double quotes "";
 //To declare a string Variable, we need to type string before the Variable and then assign it a value.
 string album = "Crush 40"; //We areinitializing a string with a value
-string name; //Declaring a string. We are not giving it a value
+//string name; //Declaring a string. We are not giving it a value
 
 //Number Data Types
 //Think of integers as whole numbers
@@ -33,6 +33,27 @@ double chiptoleBurrito = 14.45;
 //Boolean Data Type represent
 bool isItColdInHere = true; //Camel Case is when you have multiple words in a variable name. First word is lowercase
 
-Console.WriteLine(album);
+Console.WriteLine(isItColdInHere);
 
-//Console.WriteLine(name);
+//Concatenation is our first way to Join Text / strings
+Console.WriteLine("Isreal " + "Espinoza");
+
+string firstName = "Zionn";
+string lastName = "Showers";
+
+Console.WriteLine(firstName + " " + lastName);
+
+string fullName = "Jose" + " " + "Martinez";
+
+Console.WriteLine(fullName);
+
+//string Interpolation is combine strings, but we use $ {} to add variables within the string
+
+Console.WriteLine("One of CodeStacks Intructors is " + fullName);
+Console.WriteLine($"One of CodeStacks Instructors is {fullName}");
+
+Console.WriteLine("Please Enter The Number 45");
+
+//ReadLine can only be a string
+//int num = Console.ReadLine();
+string num = Console.ReadLine();
